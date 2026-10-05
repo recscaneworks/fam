@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="FAM FOOD Logo">
+  <circle cx="500" cy="500" r="382" stroke="#000000" stroke-width="36" fill="none" />
+  <path d="M 356 350 H 664 V 472" fill="none" stroke="#000000" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter" />
+  <path d="M 664 530 H 356 V 408" fill="none" stroke="#000000" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter" />
+  <line x1="356" y1="408" x2="442" y2="408" stroke="#000000" stroke-width="16" stroke-linecap="square" />
+  <line x1="370" y1="408" x2="370" y2="514" stroke="#000000" stroke-width="16" stroke-linecap="square" />
+  <line x1="370" y1="445" x2="442" y2="445" stroke="#000000" stroke-width="14" stroke-linecap="square" />
+  <polygon points="503,406 449,478 557,478" fill="none" stroke="#000000" stroke-width="16" stroke-linejoin="miter" />
+  <polyline points="564,478 564,406 614,478 664,406 664,472" fill="none" stroke="#000000" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter" />
+  <rect x="304" y="568" width="40" height="92" fill="#000000" />
+  <polygon points="344,568 382,568 382,584 374,584 374,578 344,578" fill="#000000" />
+  <rect x="344" y="612" width="30" height="9" fill="#000000" />
+  <path d="M 438 568 C 414 568 394 588 394 614 C 394 640 414 660 438 660 C 462 660 482 640 482 614 C 482 588 462 568 438 568 Z M 438 574 C 460 574 476 592 476 614 C 476 636 460 654 438 654 C 436 654 436 636 436 614 C 436 592 436 574 438 574 Z" fill="#000000" fill-rule="evenodd" />
+  <path d="M 548 568 C 524 568 504 588 504 614 C 504 640 524 660 548 660 C 572 660 592 640 592 614 C 592 588 572 568 548 568 Z M 548 574 C 570 574 586 592 586 614 C 586 636 570 654 548 654 C 546 654 546 636 546 614 C 546 592 546 574 548 574 Z" fill="#000000" fill-rule="evenodd" />
+  <rect x="624" y="568" width="40" height="92" fill="#000000" />
+  <path d="M 664 571 C 694 571 716 590 716 614 C 716 638 694 657 664 657" fill="none" stroke="#000000" stroke-width="6" />
+</svg>
