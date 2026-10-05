@@ -1,6 +1,0 @@
-{
-  "name": "Ziyafət Keyterinq & FPV Açıq Bufet",
-  "description": "İnteraktiv FPV Məcməyi (Tray) və Açıq Bufet konseptli müasir keyterinq platforması. Canlı porsiya seçimi və birbaşa WhatsApp sifariş inteqrasiyası.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
